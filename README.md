@@ -1,5 +1,3 @@
-# Bias-detection-bangla-word-embeddings
-
 # Detecting Gender Bias in Word Embeddings
 
 This repository contains code for detecting gender bias in word embeddings, specifically focusing on a Bangla Word2Vec model. It explores different methods to identify and quantify bias present in the word representations.
